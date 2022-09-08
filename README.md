@@ -2,4 +2,4 @@
 
 Click the link below! 
 
-[https://infographic-wow-diego.netlify.app](Infographic World of Warcraft map)
+[Infographic World of Warcraft map](https://infographic-wow-diego.netlify.app)
